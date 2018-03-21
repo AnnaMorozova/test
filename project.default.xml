@@ -1,0 +1,20 @@
+<application>
+  <component name="ProjectManager">
+    <defaultProject>
+      <component name="InspectionProjectProfileManager">
+        <option name="PROJECT_PROFILE" />
+        <version value="1.0" />
+      </component>
+      <component name="ProjectDictionaryState">
+        <dictionary name="Anna.Morozova" />
+      </component>
+      <component name="PropertiesComponent">
+        <property name="last_opened_file_path" value="$USER_HOME$/Downloads/za/za.dic" />
+        <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+        <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+        <property name="settings.editor.selected.configurable" value="reference.settings.ide.settings.spelling" />
+      </component>
+      <component name="SpellCheckerSettings" BundledDictionaries="0" Folders="1" Folder0="C:\Users\Anna.Morozova\Downloads\za" CustomDictionaries="1" CustomDictionary0="C:\Users\Anna.Morozova\Downloads\za\za.dic" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="project-level" UseSingleDictionary="true" />
+    </defaultProject>
+  </component>
+</application>
